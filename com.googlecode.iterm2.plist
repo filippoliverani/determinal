@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AboutToPasteTabsWithCancel</key>
+	<true/>
+	<key>AboutToPasteTabsWithCancel_selection</key>
+	<integer>2</integer>
 	<key>AllowClipboardAccess</key>
 	<true/>
 	<key>AppleAntiAliasingThreshold</key>
@@ -10,6 +14,8 @@
 	<integer>0</integer>
 	<key>AppleSmoothFixedFontsSizeThreshold</key>
 	<integer>1</integer>
+	<key>AppleWindowTabbingMode</key>
+	<string>manual</string>
 	<key>Custom Color Presets</key>
 	<dict>
 		<key>material-design-colors.itermcolors</key>
@@ -231,6 +237,8 @@
 	<false/>
 	<key>DisableFullscreenTransparency</key>
 	<true/>
+	<key>HotkeyMigratedFromSingleToMulti</key>
+	<true/>
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>NSNavLastRootDirectory</key>
@@ -252,7 +260,7 @@
 	gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
 	aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
 	ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
-	DIAIgAlRMSNAczGdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
+	DIAIgAlRMSNAdCGdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
 	TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
 	ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
 	AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
@@ -270,10 +278,14 @@
 	<true/>
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>957 77 445 468 0 0 1920 1178 </string>
+	<key>NSWindow Frame ProfilesPanel</key>
+	<string>345 418 735 382 0 0 1280 800 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>425 298 937 512 0 0 1920 1200 </string>
+	<string>183 154 796 473 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 289 755 489 0 0 1920 1178 </string>
+	<string>0 0 1905 1178 0 0 1280 800 </string>
+	<key>NSWindow Frame iTerm Window 1</key>
+	<string>247 132 825 552 0 0 1920 1200 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1577,6 +1589,10 @@
 	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>515716900.25020802</real>
+	<key>PMPrintingExpandedStateForPrint2</key>
+	<false/>
+	<key>PasteTabToStringTabStopSize</key>
+	<integer>4</integer>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -1612,6 +1628,8 @@
 	</dict>
 	<key>PrefsCustomFolder</key>
 	<string>/Users/filippo/.determinal</string>
+	<key>Print In Black And White</key>
+	<true/>
 	<key>SUEnableAutomaticChecks</key>
 	<false/>
 	<key>SUFeedAlternateAppNameKey</key>
@@ -1632,9 +1650,11 @@
 	<string>/-+\~_.</string>
 	<key>findIgnoreCase_iTerm</key>
 	<true/>
+	<key>findMode_iTerm</key>
+	<integer>0</integer>
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.0.15</string>
+	<string>3.1.4</string>
 </dict>
 </plist>
