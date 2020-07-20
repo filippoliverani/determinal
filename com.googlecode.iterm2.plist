@@ -623,29 +623,29 @@
 	<false/>
 	<key>NSSplitView Subview Frames NSColorPanelSplitView</key>
 	<array>
-		<string>0.000000, 0.000000, 228.000000, 294.000000, NO, NO</string>
-		<string>0.000000, 295.000000, 228.000000, 48.000000, NO, NO</string>
+		<string>0.000000, 0.000000, 228.000000, 258.000000, NO, NO</string>
+		<string>0.000000, 259.000000, 228.000000, 48.000000, NO, NO</string>
 	</array>
 	<key>NSTableView Columns v2 KeyBingingTable</key>
 	<data>
-	YnBsaXN0MDDUAQIDBAUGNjdYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
-	AAGGoK4HCA8aGxwdHh8gJjAxMlUkbnVsbNIJCgsOWk5TLm9iamVjdHNWJGNsYXNzogwN
-	gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
-	aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
-	ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
-	DIAIgAlRMSNAc7Gdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
-	TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
-	ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
-	AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVVBcnJheYABrgsMEx4fICEiIyQqNDU2VSRu
+	dWxs0g0ODxJaTlMub2JqZWN0c1YkY2xhc3OiEBGAAoAKgA3TFA0OFRkdV05TLmtleXOj
+	FhcYgAOABIAFoxobHIAGgAeACIAJWklkZW50aWZpZXJVV2lkdGhWSGlkZGVuUTAjQGjA
+	AAAAAAAI0iUmJyhaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiJylYTlNP
+	YmplY3TTFA0OKy8doxYXGIADgASABaMwMRyAC4AMgAiACVExI0B0oZ2yLQ5W0iUmNzhe
+	TlNNdXRhYmxlQXJyYXmjNzkpV05TQXJyYXkACAARABoAJAApADIANwBJAEwAUgBUAGMA
+	aQBuAHkAgACDAIUAhwCJAJAAmACcAJ4AoACiAKYAqACqAKwArgC5AL8AxgDIANEA0gDX
+	AOIA6wD4APsBBAELAQ8BEQETARUBGQEbAR0BHwEhASMBLAExAUABRAAAAAAAAAIBAAAA
 	AAAAADoAAAAAAAAAAAAAAAAAAAFM
 	</data>
 	<key>NSTableView Sort Ordering v2 KeyBingingTable</key>
 	<data>
-	YnBsaXN0MDDUAQIDBAUGFBVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
-	AAGGoKMHCA1VJG51bGzSCQoLDFpOUy5vYmplY3RzViRjbGFzc6CAAtIODxARWiRjbGFz
-	c25hbWVYJGNsYXNzZXNeTlNNdXRhYmxlQXJyYXmjEBITV05TQXJyYXlYTlNPYmplY3Rf
-	EA9OU0tleWVkQXJjaGl2ZXLRFhdVQXJyYXmAAQgRGiMtMjc7QUZRWFlbYGt0g4ePmKqt
-	swAAAAAAAAEBAAAAAAAAABgAAAAAAAAAAAAAAAAAAAC1
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVVBcnJheYABowsMEVUkbnVsbNINDg8QWk5T
+	Lm9iamVjdHNWJGNsYXNzoIAC0hITFBVaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU011dGFi
+	bGVBcnJheaMUFhdXTlNBcnJheVhOU09iamVjdAgRGiQpMjdJTFJUWF5jbnV2eH2IkaCk
+	rAAAAAAAAAEBAAAAAAAAABgAAAAAAAAAAAAAAAAAAAC1
 	</data>
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
@@ -659,15 +659,15 @@
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>646 60 445 436 0 0 1440 900 </string>
 	<key>NSWindow Frame ProfilesPanel</key>
-	<string>509 612 735 382 0 0 1920 1080 </string>
+	<string>509 612 735 382 0 0 1920 1057 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>269 126 606 469 0 0 1920 1200 </string>
 	<key>NSWindow Frame SharedPreferences</key>
 	<string>244 263 796 486 0 0 1440 900 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>424 185 970 692 0 0 1440 900 </string>
+	<string>480 23 1440 877 0 0 1440 900 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>0 0 1440 877 0 0 1440 877 </string>
+	<string>591 240 665 467 0 0 1920 1057 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1577,6 +1577,8 @@
 				<key>Red Component</key>
 				<real>0.26274508237838745</real>
 			</dict>
+			<key>Blink Allowed</key>
+			<false/>
 			<key>Blinking Cursor</key>
 			<false/>
 			<key>Blur</key>
@@ -1654,6 +1656,8 @@
 			<key>Description</key>
 			<string>Default</string>
 			<key>Disable Window Resizing</key>
+			<true/>
+			<key>Draw Powerline Glyphs</key>
 			<true/>
 			<key>Flashing Bell</key>
 			<false/>
@@ -1990,7 +1994,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>DelugiaCodeNerdFontComplete- 21</string>
+			<string>CascadiaCodeNerdFontComplete- 18</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -2401,6 +2405,8 @@
 			<array/>
 			<key>Terminal Type</key>
 			<string>xterm-256color</string>
+			<key>Thin Strokes</key>
+			<integer>4</integer>
 			<key>Transparency</key>
 			<real>0.0</real>
 			<key>Unlimited Scrollback</key>
@@ -2435,13 +2441,14 @@
 		<string>3.2.9</string>
 		<string>3.3.4</string>
 		<string>3.3.0</string>
+		<string>3.3.7</string>
 		<string>3.3.6</string>
 	</array>
 	<key>NoSyncBFPRecents</key>
 	<array>
+		<string>CascadiaCode Nerd Font</string>
+		<string>Menlo</string>
 		<string>Monaco</string>
-		<string>DelugiaCode NF</string>
-		<string>InconsolataForPowerline Nerd Font</string>
 	</array>
 	<key>NoSyncFrame_SessionsPreferences</key>
 	<dict>
@@ -2453,16 +2460,16 @@
 	<key>NoSyncFrame_SharedPreferences</key>
 	<dict>
 		<key>screenFrame</key>
-		<string>{{0, 0}, {1440, 900}}</string>
+		<string>{{0, 0}, {1920, 1080}}</string>
 		<key>topLeft</key>
-		<string>{269, 595}</string>
+		<string>{317, 795}</string>
 	</dict>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>09B62E12-1C25-4372-9077-956A61E6E684</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>5</integer>
+	<integer>9</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -3245,16 +3252,16 @@
 	</array>
 	<key>NoSyncSearchHistory2</key>
 	<array>
+		<string>volu</string>
+		<string>reject</string>
+		<string>filipoq</string>
+		<string>name</string>
+		<string>firstname</string>
+		<string>222firstname</string>
+		<string>22firstname</string>
+		<string>2firstname</string>
 		<string>objectclass</string>
 		<string>status</string>
-		<string>state</string>
-		<string>fillArtifactName</string>
-		<string>/configuration_items</string>
-		<string>configuration/</string>
-		<string>configrao</string>
-		<string>runlevel2.target                       enabled runlevel3.target                       enabled runlevel4.target                       enabled apt-daily-upgrade.timer                enabled apt-daily.timer                        enabled phpsessionclean.timer                  enabled root@hole:/home/pi# apt-get remove wpa_supplicant Reading package lists... Done Building dependency tree Reading state information... Done E: Unable to locate package wpa_supplicant root@hole:/home/pi# apt-get remove wpasupplicant   14   │ gem 'pg' ───────┼─────────────────────────────────────────────────   1   │ # frozen_string_literal: true    2   │    3   │ source 'http://artifactory.gbm.lan:8080/artifactory/api/gems/rubygems_virtual/'    4   │    5   │ ruby '2.6.3'    6   │    7   │ gem 'bootsnap', require: false    8   │ gem 'devise'    9   │ gem 'devise-jwt'   10   │ gem 'jbuilder' ❯ gps .zshell git/master* ❯ gci "Add bat alias" [master bb74b33] Add bat alias  1 file changed, 1 insertion(+), 1 deletion(-)                                                          .zshell git/master ❯ gst On branch master Your branch is ahead of 'origin/master' by 1 commit.   (use "git push" to publish your local commits)  nothing to commit, working tree clean  .zshell git/master Compressing objects: 100% (3/3), done.  1 file changed, 1 insertion(+), 1 deletion(-)  .zshell git/master ❯ gst On branch master (search down) :format) admin/configuration_items#create new_admin_configuration_item_path GET /admin/confi[108/9861]tems/new(.:format) admin/configuration_items#new edit_admin_configuration_item_path GET /admin/configuration_items/:id/edit(.:format) admin/configuration_items#edit admin_configuration_item_path GET /admin/configuration_items/:id(.:format) admin/configuration_items#show PATCH /admin/configuration_items/:id(.:format) admin/configuration_items#update PUT /admin/configuration_items/:id(.:format) admin/configuration_items#update DELETE /admin/configuration_items/:id(.:format) admin/configuration_items#destroy admin_db_tasks_path GET /admin/db_tasks(.:format) admin/db_tasks#index edit_admin_db_task_path GET /admin/db_tasks/:id/edit(.:format) admin/db_tasks#edit admin_db_task_path GET /admin/db_tasks/:id(.:format) admin/db_tasks#show PATCH /admin/db_tasks/:id(.:format) admin/db_tasks#update PUT /admin/db_tasks/:id(.:format) admin/db_tasks#update admin_admin_dashboard_path GET /admin/admin_dashboard(.:format) admin/admin_dashboard#index admin_comments_path GET /admin/comments(.:format) admin/comments#index POST /admin/comments(.:format) admin/comments#create admin_comment_path GET /admin/comments/:id(.:format) admin/comments#show DELETE /admin/comments/:id(.:format) admin/comments#destroy api_docs_path GET /api/docs(.:format) application#swagger distinta_v2_api_path /api DistintaV2::API sidekiq_web_path /sidekiq Sidekiq::Web root_path GET / admin/dashboard#index GET /404(.:format) admin/error#index {:status=&gt;404} GET /422(.:format) admin/error#index {:status=&gt;422} GET /500(.:format) admin/error#index {:status=&gt;500} download_bpels_path GET /bpels/download(.:format) bpels#download configuration_item_deliverable_type_path GET /configuration_items/:configuration_item_id/deliverable_type(.:format) configuration_item#deliverable_type names_configuration_item_artifacts_path GET /configuration_items/:configuration_item_ id/artifacts/names(.:format) artifacts#names versions_configuration_item_artifacts_path GET /configura tion_items/:configuration_item_id/artifacts/versions(.:format) artifacts#versions configuration_items_ path GET /configuration_items(.:format) configuration_items#index POST /configuration_items(.:format) configuration_items#create new_configuration_item_path GET /configuration_items/new(.:format) configur ation_items#new edit_configuration_item_path GET /configuration_items/:id/edit(.:format) configuration _items#edit configuration_item_path GET /configuration_items/:id(.:format) configuration_items#show PA TCH /configuration_items/:id(.:format) configuration_items#update PUT /configuration_items/:id(.:forma t) configuration_items#update DELETE /configuration_items/:id(.:format) configuration_items#destroy do wnload_customization_files_path GET /customization_files/download(.:format) customization_files#downlo ad download_deployment_plans_path GET /deployment_plans/download(.:format) deployment_plans#download $</string>
-		<string>//configuration_items#search</string>
-		<string>//configuration_itemssearch</string>
 	</array>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>515716900.25020802</real>
@@ -3310,7 +3317,7 @@
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
-	<true/>
+	<false/>
 	<key>SoundForEsc</key>
 	<false/>
 	<key>SplitPaneDimmingAmount</key>
@@ -3334,7 +3341,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.3.6</string>
+	<string>3.3.7</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>2</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
