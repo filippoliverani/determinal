@@ -2,19 +2,19 @@
 
 set -e
 
-path="$HOME/.determinal"
+DETERMINAL_PATH="$HOME/.determinal"
 
-if [ -e $path/.git ]; then
-  cd $path && git pull
+if [ -e $DETERMINAL_PATH/.git ]; then
+	cd $DETERMINAL_PATH && git pull
 else
-  git clone https://github.com/filippoliverani/determinal.git $path
+	git clone https://github.com/filippoliverani/determinal.git $path
 fi
 
 brew install wget
 brew cask install iterm2
 
-wget -N -P ~/Library/Fonts https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Inconsolata/complete/Inconsolata%20Nerd%20Font%20Complete.otf?raw=true
+wget -N -P ~/Library/Fonts https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/M/Regular/MesloLGMNerdFontMono-Regular.ttf
 
 preferences_path="$HOME/Library/Preferences/com.googlecode.iterm2.plist"
-cp -f $path/com.googlecode.iterm2.plist $preferences_path
+cp -f $DETERMINAL_PATH/com.googlecode.iterm2.plist $preferences_path
 plutil -convert xml1 $preferences_path
